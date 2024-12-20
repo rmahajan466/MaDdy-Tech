@@ -20,7 +20,6 @@ Before running the scripts, ensure you have the following installed and set up o
 1. Clone this repository:
    ```bash
    git clone https://github.com/rmahajan466/MaDdy-Tech.git
-   cd your-repo-url
    ```
 
 2. Install the required Python packages:
